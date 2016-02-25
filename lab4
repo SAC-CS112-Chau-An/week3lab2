@@ -1,0 +1,13 @@
+public class Welcome1
+{
+	public static void main (Strign[] args)
+        { 
+             
+                 String s = "Hello World";
+System.out.printf("The String object %s is ", s);
+		
+                 
+
+	}
+
+}
