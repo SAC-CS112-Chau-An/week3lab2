@@ -1,0 +1,20 @@
+public class Welcome1
+{
+	public static void main (Strign[] args)
+        { 
+             
+      int x, y, a, b,c, d;
+      System.out.println("Enter two integers to calculate their sum ");
+      Scanner in = new Scanner(System.in);
+      x = in.nextInt();
+      y = in.nextInt();
+      a = x + y;
+      b = x - y;
+      c = x * y;
+      d = x / y;
+      System.out.printf("Sum, differnce, product and quotient of entered integers  %d , %d, %d, %d", a, b, c, d);
+                 
+
+	}
+
+}
