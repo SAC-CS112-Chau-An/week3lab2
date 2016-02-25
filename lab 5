@@ -1,0 +1,17 @@
+public class Welcome1
+{
+	public static void main (Strign[] args)
+        { 
+             
+              int x, y;
+      System.out.println("Enter two integers : ");
+      Scanner in = new Scanner(System.in);
+      x = in.nextInt();
+      y = in.nextInt();
+     
+      System.out.printf("Hello, You enter %d and %d .",x,y );
+                 
+
+	}
+
+}
