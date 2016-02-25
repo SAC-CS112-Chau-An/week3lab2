@@ -1,0 +1,12 @@
+public class Welcome1
+{
+	public static void main (Strign[] args)
+        { 
+             String a = "Hello";  
+             String b = "Hello";
+             String c; 
+             c=a+b;
+                  System.out.println(c); 
+      	}
+
+}
